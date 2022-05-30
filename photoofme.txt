@@ -1,0 +1,4 @@
+<img src="imgs/icon4(180180).png"  style="width:150px;" >
+<br><font size=3>임사랑<br>
+ 메일 정보: <a href="mailto:w2014@e-mirim.hs.kr">
+ shyoon63@gmail.com</a>.</font>
